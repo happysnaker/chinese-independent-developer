@@ -113,3 +113,66 @@
 ## License
 
 CC0 1.0 Universal — 随意使用，无需署名。
+
+---
+
+## 📊 独立开发者收入排行（2024-2026）
+
+| 排名 | 项目/作者 | 类型 | 月收入（估算） | 来源 |
+|------|-----------|------|----------------|------|
+| 1 | [LobeChat](https://github.com/lobehub/lobe-chat) | AI 客户端 | $10K+ | GitHub Sponsors |
+| 2 | [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | AI 客户端 | $5K+ | GitHub Sponsors |
+| 3 | [AFFiNE](https://github.com/toeverything/AFFiNE) | 知识管理 | 融资 | VC |
+| 4 | [NocoDB](https://github.com/nocodb/nocodb) | 低代码 | 企业版 | 付费 |
+| 5 | [沉浸式翻译](https://immersivetranslate.com/) | 浏览器插件 | $50K+ | 订阅 |
+| 6 | [划词翻译](https://hcfy.app/) | 浏览器插件 | $10K+ | 订阅 |
+| 7 | [Follow](https://github.com/RSSNext/Follow) | RSS 阅读器 | $20K+ | 订阅 |
+| 8 | [SiYuan](https://github.com/siyuan-note/siyuan) | 笔记 | $5K+ | 订阅 |
+| 9 | [Excalidraw](https://github.com/excalidraw/excalidraw) | 白板 | $15K+ | 赞助 |
+| 10 | [Shields.io](https://github.com/badges/shields) | Badge 服务 | $3K+ | 赞助 |
+
+> 数据来源：GitHub Sponsors、Patreon、公开报道。实际收入可能有偏差。
+
+---
+
+## 🛠 我的付费服务
+
+> 如果你想让自己的 GitHub 也像上面这些项目一样专业，我帮你搞定。
+
+### GitHub 包装服务
+
+| 服务 | 价格 | 内容 |
+|------|------|------|
+| 🚀 快速评审 | **¥9.9** | 打开你的 GitHub，3 分钟内指出 3 个最致命的问题 |
+| 📋 标准评审 | **¥29.9** | 快速评审 + 具体改法 + 模板 README |
+| 🎯 深度定制 | **¥99** | 全套：Profile + 2 个 README + 项目落地页 |
+| 🏆 旗舰套餐 | **¥199** | 深度定制 + 一个月内持续跟进 + 2 次修改 |
+
+### 怎么下单？
+
+1. 扫码支付（微信/支付宝）
+2. 发邮件到 **happysnaker@foxmail.com**
+3. 附上：GitHub 链接 + 支付截图 + 目标岗位（可选）
+4. 24 小时内回复
+
+<div align="center">
+  <img src="https://happysnaker.github.io/medias/support/wechat-pay.jpg" width="200" alt="微信支付" />
+  <img src="https://happysnaker.github.io/medias/support/alipay-pay.jpg" width="200" alt="支付宝" />
+  <br/>
+  <sub>扫码备注 "indie" · ¥9.9 起</sub>
+</div>
+
+---
+
+## 🌟 推荐阅读
+
+- [如何用 GitHub 找到远程工作](https://github.com/happysnaker/Resume)
+- [系统设计面试 Checklist](https://github.com/happysnaker/system-design-checklist)
+- [后端工程师 Checklist](https://github.com/happysnaker/backend-engineer-checklist)
+- [GitHub Profile 包装指南](https://github.com/happysnaker/github-profile-checklist)
+
+---
+
+## 💬 讨论
+
+欢迎在 [Discussions](https://github.com/happysnaker/chinese-independent-developer/discussions) 分享你的项目和经验。
