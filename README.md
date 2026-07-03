@@ -176,3 +176,77 @@ CC0 1.0 Universal — 随意使用，无需署名。
 ## 💬 讨论
 
 欢迎在 [Discussions](https://github.com/happysnaker/chinese-independent-developer/discussions) 分享你的项目和经验。
+
+---
+
+## 🎯 新手入门指南
+
+### 第一步：选方向
+
+选一个你熟悉且市场有需求的领域：
+- **AI 工具** — 套壳 ChatGPT 也能赚钱（但竞争激烈）
+- **浏览器插件** — 开发成本低，用户获取容易
+- **开发者工具** — 目标用户明确，付费意愿高
+- **模板/主题** — 一次开发，持续销售
+- **API 服务** — 按量付费，收入可预测
+
+### 第二步：快速验证
+
+不要花 3 个月做一个没人用的产品。先做：
+1. Landing Page（1 天）
+2. 收集 100 个 waitlist 邮箱（1 周）
+3. 如果没有 100 个人感兴趣 → 换方向
+
+### 第三步：定价策略
+
+| 类型 | 建议定价 | 例子 |
+|------|----------|------|
+| 一次性付费 | ¥29-199 | 模板、主题 |
+| 月订阅 | ¥9.9-99/月 | SaaS 工具 |
+| 按量付费 | ¥0.01-1/次 | API 服务 |
+| 赞助/捐赠 | 自愿 | 开源项目 |
+
+### 第四步：推广渠道
+
+- **GitHub** — 写好 README，加 topics，提交到 awesome list
+- **V2EX** — 发帖分享（注意软文嫌疑）
+- **掘金** — 写技术文章带项目链接
+- **知乎** — 回答相关问题
+- **Reddit** — r/SideProject, r/SaaS
+- **Product Hunt** — 英文产品的重要渠道
+- **Twitter/X** — 建立个人品牌
+
+## 📈 我的 GitHub 包装案例
+
+> 以下是我帮别人和自己做的 GitHub 包装效果：
+
+| 项目 | 优化前 | 优化后 | 效果 |
+|------|--------|--------|------|
+| [qq-ai-bot](https://github.com/happysnaker/qq-ai-bot) | 0 star | 进入 OneBot 官方生态 | 被多个 awesome list 收录 |
+| [Resume](https://github.com/happysnaker/Resume) | 无 README | 161 stars | 成为 GitHub Pages 模板 |
+| [CSAPPLabsAndNotes](https://github.com/happysnaker/CSAPPLabsAndNotes) | 70 stars | 70 stars | 持续获得自然流量 |
+
+## 🔗 相关资源
+
+- [GitHub Profile Checklist](https://github.com/happysnaker/github-profile-checklist) — 免费开源的 GitHub 包装清单
+- [System Design Checklist](https://github.com/happysnaker/system-design-checklist) — 系统设计面试清单
+- [Production Readiness Checklist](https://github.com/happysnaker/production-readiness-checklist) — 生产环境上线清单
+- [Backend Engineer Checklist](https://github.com/happysnaker/backend-engineer-checklist) — 后端工程师自查清单
+
+## 💰 付费服务
+
+如果你需要更专业的帮助：
+
+| 服务 | 价格 | 交付 |
+|------|------|------|
+| 🚀 快速评审 | **¥9.9** | 24h 内指出 3 个致命问题 |
+| 📋 标准评审 | **¥29.9** | 快速评审 + 改法 + 模板 |
+| 🎯 深度定制 | **¥99** | 全套：Profile + 2 个 README |
+| 🏆 旗舰套餐 | **¥199** | 深度定制 + 1 个月跟进 |
+
+<div align="center">
+  <img src="https://happysnaker.github.io/medias/support/wechat-pay.jpg" width="200" alt="微信支付" />
+  <img src="https://happysnaker.github.io/medias/support/alipay-pay.jpg" width="200" alt="支付宝" />
+  <br/>
+  <sub>扫码备注 "indie" · ¥9.9 起 · happysnaker@foxmail.com</sub>
+</div>
