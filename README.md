@@ -1,12 +1,18 @@
 # 🚀 中国独立开发者出海项目列表
 
-> 帮助你找到可持续的副业方向和灵感。  
+> 帮助你找到可持续的副业方向和灵感。
 > A curated list of Chinese indie developer projects, tools, and SaaS that actually make money.
 
 [![Stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https://api.github.com/repos/happysnaker/chinese-independent-developer)](https://github.com/happysnaker/chinese-independent-developer/stargazers)
 [![Support](https://img.shields.io/badge/%F0%9F%92%9B%20Support-WeChat%20%26%20Alipay-9b87f5)](https://happysnaker.github.io/support/#from-indie-dev)
 
 ---
+
+## 维护状态 / Maintenance status
+
+这个仓库是一个公开整理中的 curated list，不是当前 profile 的旗舰工程项目。欢迎提交项目，但收入数据必须尽量来自公开信息；不要提交私人截图、个人数据或无法公开验证的收入证明。
+
+This is a curated list in public maintenance, not the current flagship engineering project on my profile. Project submissions are welcome, but revenue claims should be based on public evidence where possible. Do not submit private screenshots or personal data.
 
 ## 为什么做这个？
 

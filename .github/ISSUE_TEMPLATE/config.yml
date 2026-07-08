@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discussions
+    url: https://github.com/happysnaker/chinese-independent-developer/discussions
+    about: Share indie project examples, monetization lessons, and category suggestions.
+  - name: Support this list
+    url: https://happysnaker.github.io/support/#from-indie-dev
+    about: Support ongoing curation and cleanup work.
+  - name: Paid GitHub packaging review
+    url: https://happysnaker.github.io/review/
+    about: Get paid feedback on your own GitHub profile, repo README, or project positioning.
