@@ -12,6 +12,9 @@ contact_links:
   - name: Sponsor prospect pipeline
     url: https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-prospect-pipeline.md
     about: Route indie founders, curators, and paid-review buyers to the right proof, CTA, support note, and guardrail.
+  - name: Sponsor conversion scorecard
+    url: https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-conversion-scorecard.md
+    about: Classify support/review asks as Hot / Warm / Nurture / No-send before asking for payment or feedback.
   - name: Discussions
     url: https://github.com/happysnaker/chinese-independent-developer/discussions
     about: Share indie project examples, monetization lessons, and category suggestions.

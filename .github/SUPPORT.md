@@ -6,8 +6,9 @@
 - Project support details: [../SUPPORT.md](../SUPPORT.md)
 - Sponsor / paid-support intake replies: <https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md#sponsor--paid-support-intake-replies>
 - Sponsor prospect pipeline: <https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-prospect-pipeline.md>
+- Sponsor conversion scorecard: <https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-conversion-scorecard.md>
 - Deploy-read sample before paying: <https://happysnaker.github.io/review/deploy-read-sample/>
 
-Use the sponsor prospect pipeline to choose the right proof, CTA, support note, and guardrail before outreach or payment.
+Use the sponsor prospect pipeline to choose the right proof, CTA, support note, and guardrail before outreach or payment. Use the sponsor conversion scorecard to classify Hot / Warm / Nurture / No-send before posting an ask.
 
 不要在公开 issue 里粘贴 private logs、credentials、QR codes、payment screenshots、internal URLs、raw live integration output；付款截图或私密背景请走邮件/私聊。
