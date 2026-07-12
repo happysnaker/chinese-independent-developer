@@ -19,7 +19,7 @@ This is a curated list in public maintenance, not the current flagship engineeri
 
 中国开发者在海外独立开发/出海方面信息极度分散。这个列表收集**真正在赚钱**的项目、工具和案例，帮你找到方向。
 
-> 💛 **这个列表免费。如果它帮你省了时间，请 [扫码支持](https://happysnaker.github.io/support/#from-indie-dev)（¥9.9 起）。如果不确定该打赏、看 proof、买评审，先走 [10-second support router](https://happysnaker.github.io/support/#sponsor-router)。**
+> 💛 **这个列表免费。如果它帮你省了时间，请 [扫码支持](https://happysnaker.github.io/support/#from-indie-dev)（¥9.9 起）。如果不确定该打赏、看 proof、买评审，先走 [10-second support router](https://happysnaker.github.io/support/#sponsor-router)；如果你是 indie founder / curator / paid-review buyer，先看 [sponsor prospect pipeline](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-prospect-pipeline.md) 选对 proof、CTA、support note 和 guardrail。**
 
 <div align="center">
   <img src="https://happysnaker.github.io/medias/support/wechat-pay.jpg" width="150" alt="微信支付" />
@@ -68,7 +68,7 @@ This is a curated list in public maintenance, not the current flagship engineeri
 | 标准评审 | **¥29.9** | 快速评审 + 具体改法 + 模板 |
 | 深度定制 | **¥99** | 全套：profile + 2个 README + 落地页 |
 
-**支付后发邮件到 happysnaker@foxmail.com**，附上公开 GitHub 链接；付款截图请只放邮件/私聊，不要贴在 public issue。先看： [sponsor / paid-support intake replies](https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md#sponsor--paid-support-intake-replies) · [deploy-read sample](https://happysnaker.github.io/review/deploy-read-sample/)。
+**支付后发邮件到 happysnaker@foxmail.com**，附上公开 GitHub 链接；付款截图请只放邮件/私聊，不要贴在 public issue。先看： [sponsor / paid-support intake replies](https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md#sponsor--paid-support-intake-replies) · [deploy-read sample](https://happysnaker.github.io/review/deploy-read-sample/)。 如果你不确定是 tip、提交项目、买 review 还是赞助维护，先走 [sponsor prospect pipeline](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-prospect-pipeline.md)。
 
 ## AI / ChatGPT 工具
 
