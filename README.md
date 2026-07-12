@@ -5,6 +5,7 @@
 
 [![Stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https://api.github.com/repos/happysnaker/chinese-independent-developer)](https://github.com/happysnaker/chinese-independent-developer/stargazers)
 [![Support](https://img.shields.io/badge/%F0%9F%92%9B%20Support-WeChat%20%26%20Alipay-9b87f5)](https://happysnaker.github.io/support/#from-indie-dev)
+[![Proof before payment](https://img.shields.io/badge/proof-before%20payment-62d2a2)](https://happysnaker.github.io/support/#proof-before-payment)
 
 ---
 
@@ -18,7 +19,7 @@ This is a curated list in public maintenance, not the current flagship engineeri
 
 中国开发者在海外独立开发/出海方面信息极度分散。这个列表收集**真正在赚钱**的项目、工具和案例，帮你找到方向。
 
-> 💛 **这个列表免费。如果它帮你省了时间，请 [扫码支持](https://happysnaker.github.io/support/#from-indie-dev)（¥9.9 起）。**
+> 💛 **这个列表免费。如果它帮你省了时间，请 [扫码支持](https://happysnaker.github.io/support/#from-indie-dev)（¥9.9 起）。如果不确定该打赏、看 proof、买评审，先走 [10-second support router](https://happysnaker.github.io/support/#sponsor-router)。**
 
 <div align="center">
   <img src="https://happysnaker.github.io/medias/support/wechat-pay.jpg" width="150" alt="微信支付" />
@@ -67,7 +68,7 @@ This is a curated list in public maintenance, not the current flagship engineeri
 | 标准评审 | **¥29.9** | 快速评审 + 具体改法 + 模板 |
 | 深度定制 | **¥99** | 全套：profile + 2个 README + 落地页 |
 
-**支付后发邮件到 happysnaker@foxmail.com**，附上 GitHub 链接 + 截图。
+**支付后发邮件到 happysnaker@foxmail.com**，附上公开 GitHub 链接；付款截图请只放邮件/私聊，不要贴在 public issue。先看： [sponsor / paid-support intake replies](https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md#sponsor--paid-support-intake-replies) · [deploy-read sample](https://happysnaker.github.io/review/deploy-read-sample/)。
 
 ## AI / ChatGPT 工具
 
@@ -138,6 +139,8 @@ CC0 1.0 Universal — 随意使用，无需署名。
 | 10 | [Shields.io](https://github.com/badges/shields) | Badge 服务 | $3K+ | 赞助 |
 
 > 数据来源：GitHub Sponsors、Patreon、公开报道。实际收入可能有偏差。
+>
+> 不要在公开 issue 里粘贴 private logs、credentials、QR codes、payment screenshots、internal URLs、raw live integration output；付款截图或私密背景请走邮件/私聊。
 
 ---
 
@@ -158,7 +161,7 @@ CC0 1.0 Universal — 随意使用，无需署名。
 
 1. 扫码支付（微信/支付宝）
 2. 发邮件到 **happysnaker@foxmail.com**
-3. 附上：GitHub 链接 + 支付截图 + 目标岗位（可选）
+3. 附上：公开 GitHub 链接 + 目标岗位（可选）；支付截图只放邮件/私聊，不要发到 public issue
 4. 24 小时内回复
 
 <div align="center">
