@@ -4,8 +4,6 @@
 > A curated list of Chinese indie developer projects, tools, and SaaS that actually make money.
 
 [![Stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https://api.github.com/repos/happysnaker/chinese-independent-developer)](https://github.com/happysnaker/chinese-independent-developer/stargazers)
-[![Support](https://img.shields.io/badge/%F0%9F%92%9B%20Support-WeChat%20%26%20Alipay-9b87f5)](https://happysnaker.github.io/support/#from-indie-dev)
-[![Proof before payment](https://img.shields.io/badge/proof-before%20payment-62d2a2)](https://happysnaker.github.io/support/#proof-before-payment)
 
 ---
 
@@ -17,16 +15,7 @@ This is a curated list in public maintenance, not the current flagship engineeri
 
 ## 为什么做这个？
 
-中国开发者在海外独立开发/出海方面信息极度分散。这个列表收集**真正在赚钱**的项目、工具和案例，帮你找到方向。
-
-> 💛 **这个列表免费。如果它帮你省了时间，请 [扫码支持](https://happysnaker.github.io/support/#from-indie-dev)（¥9.9 起）。如果不确定该打赏、看 proof、买评审，先走 [10-second support router](https://happysnaker.github.io/support/#sponsor-router)；如果你是 indie founder / curator / paid-review buyer，先看 [sponsor prospect pipeline](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-prospect-pipeline.md) 选对 proof、CTA、support note 和 guardrail，再用 [sponsor conversion scorecard](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-conversion-scorecard.md) 判断 Hot / Warm / Nurture / No-send，避免泛泛 donation bump。**
-
-<div align="center">
-  <img src="https://happysnaker.github.io/medias/support/wechat-pay.jpg" width="150" alt="微信支付" />
-  <img src="https://happysnaker.github.io/medias/support/alipay-pay.jpg" width="150" alt="支付宝" />
-  <br/>
-  <sub>扫码备注 "indie" · ¥9.9 起</sub>
-</div>
+中国开发者在海外独立开发/出海方面信息极度分散。这个列表收集可公开验证的项目、工具和案例，帮你找到方向。
 
 ---
 
@@ -34,7 +23,6 @@ This is a curated list in public maintenance, not the current flagship engineeri
 
 - [SaaS / 工具类](#saas--工具类)
 - [开源项目变现](#开源项目变现)
-- [GitHub 包装服务](#github-包装服务)
 - [AI / ChatGPT 工具](#ai--chatgpt-工具)
 - [浏览器插件](#浏览器插件)
 - [模板 / 主题](#模板--主题)
@@ -57,18 +45,6 @@ This is a curated list in public maintenance, not the current flagship engineeri
 | [AFFiNE](https://github.com/toeverything/AFFiNE) | SaaS + 开源 | 融资中 |
 | [NocoDB](https://github.com/nocodb/nocodb) | 企业版 | 50K+ stars |
 | [Appwrite](https://github.com/appwrite/appwrite) | 云服务 | 融资中 |
-
-## GitHub 包装服务
-
-> 💰 **这是我的付费服务** — 帮你把 GitHub 从"大学生作业"变成"面试官想看的"。
-
-| 服务 | 价格 | 说明 |
-|------|------|------|
-| 快速评审 | **¥9.9** | 指出 3 个最该改的地方 |
-| 标准评审 | **¥29.9** | 快速评审 + 具体改法 + 模板 |
-| 深度定制 | **¥99** | 全套：profile + 2个 README + 落地页 |
-
-**支付后发邮件到 happysnaker@foxmail.com**，附上公开 GitHub 链接；付款截图请只放邮件/私聊，不要贴在 public issue。先看： [sponsor / paid-support intake replies](https://github.com/happysnaker/happysnaker/blob/master/docs/share-kit.md#sponsor--paid-support-intake-replies) · [deploy-read sample](https://happysnaker.github.io/review/deploy-read-sample/)。 如果你不确定是 tip、提交项目、买 review 还是赞助维护，先走 [sponsor prospect pipeline](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-prospect-pipeline.md)，再用 [sponsor conversion scorecard](https://github.com/happysnaker/happysnaker/blob/master/docs/sponsor-conversion-scorecard.md) 做 Hot / Warm / Nurture / No-send 判断。
 
 ## AI / ChatGPT 工具
 
@@ -108,15 +84,6 @@ This is a curated list in public maintenance, not the current flagship engineeri
 - 你发现的好项目
 - 变现案例分享
 
-## 💛 支持
-
-<div align="center">
-  <img src="https://happysnaker.github.io/medias/support/wechat-pay.jpg" width="180" alt="微信支付" />
-  <img src="https://happysnaker.github.io/medias/support/alipay-pay.jpg" width="180" alt="支付宝" />
-  <br/>
-  <sub>扫码备注 "indie" · ¥9.9 起</sub>
-</div>
-
 ## License
 
 CC0 1.0 Universal — 随意使用，无需署名。
@@ -141,35 +108,6 @@ CC0 1.0 Universal — 随意使用，无需署名。
 > 数据来源：GitHub Sponsors、Patreon、公开报道。实际收入可能有偏差。
 >
 > 不要在公开 issue 里粘贴 private logs、credentials、QR codes、payment screenshots、internal URLs、raw live integration output；付款截图或私密背景请走邮件/私聊。
-
----
-
-## 🛠 我的付费服务
-
-> 如果你想让自己的 GitHub 也像上面这些项目一样专业，我帮你搞定。
-
-### GitHub 包装服务
-
-| 服务 | 价格 | 内容 |
-|------|------|------|
-| 🚀 快速评审 | **¥9.9** | 打开你的 GitHub，3 分钟内指出 3 个最致命的问题 |
-| 📋 标准评审 | **¥29.9** | 快速评审 + 具体改法 + 模板 README |
-| 🎯 深度定制 | **¥99** | 全套：Profile + 2 个 README + 项目落地页 |
-| 🏆 旗舰套餐 | **¥199** | 深度定制 + 一个月内持续跟进 + 2 次修改 |
-
-### 怎么下单？
-
-1. 扫码支付（微信/支付宝）
-2. 发邮件到 **happysnaker@foxmail.com**
-3. 附上：公开 GitHub 链接 + 目标岗位（可选）；支付截图只放邮件/私聊，不要发到 public issue
-4. 24 小时内回复
-
-<div align="center">
-  <img src="https://happysnaker.github.io/medias/support/wechat-pay.jpg" width="200" alt="微信支付" />
-  <img src="https://happysnaker.github.io/medias/support/alipay-pay.jpg" width="200" alt="支付宝" />
-  <br/>
-  <sub>扫码备注 "indie" · ¥9.9 起</sub>
-</div>
 
 ---
 
@@ -225,37 +163,9 @@ CC0 1.0 Universal — 随意使用，无需署名。
 - **Product Hunt** — 英文产品的重要渠道
 - **Twitter/X** — 建立个人品牌
 
-## 📈 我的 GitHub 包装案例
-
-> 以下是我帮别人和自己做的 GitHub 包装效果：
-
-| 项目 | 优化前 | 优化后 | 效果 |
-|------|--------|--------|------|
-| [qq-ai-bot](https://github.com/happysnaker/qq-ai-bot) | 0 star | 进入 OneBot 官方生态 | 被多个 awesome list 收录 |
-| [Resume](https://github.com/happysnaker/Resume) | 无 README | 161 stars | 成为 GitHub Pages 模板 |
-| [CSAPPLabsAndNotes](https://github.com/happysnaker/CSAPPLabsAndNotes) | 70 stars | 70 stars | 持续获得自然流量 |
-
 ## 🔗 相关资源
 
 - [GitHub Profile Checklist](https://github.com/happysnaker/github-profile-checklist) — 免费开源的 GitHub 包装清单
 - [System Design Checklist](https://github.com/happysnaker/system-design-checklist) — 系统设计面试清单
 - [Production Readiness Checklist](https://github.com/happysnaker/production-readiness-checklist) — 生产环境上线清单
 - [Backend Engineer Checklist](https://github.com/happysnaker/backend-engineer-checklist) — 后端工程师自查清单
-
-## 💰 付费服务
-
-如果你需要更专业的帮助：
-
-| 服务 | 价格 | 交付 |
-|------|------|------|
-| 🚀 快速评审 | **¥9.9** | 24h 内指出 3 个致命问题 |
-| 📋 标准评审 | **¥29.9** | 快速评审 + 改法 + 模板 |
-| 🎯 深度定制 | **¥99** | 全套：Profile + 2 个 README |
-| 🏆 旗舰套餐 | **¥199** | 深度定制 + 1 个月跟进 |
-
-<div align="center">
-  <img src="https://happysnaker.github.io/medias/support/wechat-pay.jpg" width="200" alt="微信支付" />
-  <img src="https://happysnaker.github.io/medias/support/alipay-pay.jpg" width="200" alt="支付宝" />
-  <br/>
-  <sub>扫码备注 "indie" · ¥9.9 起 · happysnaker@foxmail.com</sub>
-</div>
