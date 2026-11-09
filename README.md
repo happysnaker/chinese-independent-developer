@@ -37,6 +37,7 @@ This is a curated list in public maintenance, not the current flagship engineeri
 | [WeweOpen](https://github.com/weweopen) | 网页版微信管理工具 | 未知 | React |
 | [LobeChat](https://github.com/lobehub/lobe-chat) | 开源 ChatGPT 客户端 | Sponsorship | TypeScript |
 | [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | 一键部署 ChatGPT Web | 80K+ stars | TypeScript |
+| [课伴](https://keban.deed.page/) | 面向独立家教的 iOS App：排课、课时包、收款与 AI 家长反馈草稿；本地优先 | 未知（Freemium） | Swift / iOS |
 
 ## 开源项目变现
 
