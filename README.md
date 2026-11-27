@@ -37,6 +37,7 @@ This is a curated list in public maintenance, not the current flagship engineeri
 | [WeweOpen](https://github.com/weweopen) | 网页版微信管理工具 | 未知 | React |
 | [LobeChat](https://github.com/lobehub/lobe-chat) | 开源 ChatGPT 客户端 | Sponsorship | TypeScript |
 | [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | 一键部署 ChatGPT Web | 80K+ stars | TypeScript |
+| [StagePeek](https://stagepeek.live/) | 覆盖 201 座全球演唱会场馆的 2D 座位图与 3D 舞台视野模拟器（免登录免费首座 1x–10x 变焦，Pro $4.99/周起） | 未知（Freemium） | Next.js / Three.js / WebGL |
 
 ## 开源项目变现
 
